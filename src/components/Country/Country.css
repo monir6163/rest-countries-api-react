@@ -1,0 +1,10 @@
+.countryinfo {
+  background-color: skyblue;
+  border: 2px solid lightsalmon;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+.countryinfo img {
+  width: 50px;
+}
